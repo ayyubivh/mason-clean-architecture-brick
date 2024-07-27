@@ -1,0 +1,1 @@
+# mason-clean-architecture-brick
